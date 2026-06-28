@@ -1,0 +1,70 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "VentasDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "MinimumProductVersion": "2.6.1091",
+   "ModelNamespace": null,
+   "OutputContextPath": "Context",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CargaVentas.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categories]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrdersDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": true,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": true,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
